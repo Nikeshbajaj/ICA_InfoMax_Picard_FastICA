@@ -5,6 +5,7 @@ Independent Component Analysis with
 2. Extended InfoMax
 3. Picard
     
+    ![](https://raw.githubusercontent.com/Nikeshbajaj/ICA_InfoMax_Picard_FastICA/master/Figure1.png)
     
     References
     ----------
