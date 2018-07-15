@@ -1,9 +1,9 @@
 # ICA_InfoMax_Picard_FastICA
 Independent Component Analysis with 
-0. FastICA
-1. infoMax -Information Maximization
-2. Extended InfoMax
-3. Picard
+1. FastICA
+2. infoMax -Information Maximization
+3. Extended InfoMax
+4. Picard
     
     ![](https://raw.githubusercontent.com/Nikeshbajaj/ICA_InfoMax_Picard_FastICA/master/Figure1.png)
     
