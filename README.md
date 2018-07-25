@@ -1,6 +1,6 @@
 # ICA_InfoMax_Picard_FastICA
 Independent Component Analysis with 
-1. FastICA
+1. FastICA (from scikit learn)
 2. infoMax -Information Maximization
 3. Extended InfoMax
 4. Picard
